@@ -1092,16 +1092,16 @@ TonicDesc,items,,,Refreshing And Stimulating.,Erfrischend und stimulierend.
 BellPepper Seed,recipes,Recipe,KgNone,Bell Pepper Seed,Paprika-Samen
 BitterHops Seed,items,Item,KgNone,Bitter Hops Seed,
 BlackBean Seed,items,Item,KgNone,Black Bean Seed,
-BlackPepper Seed,items,Item,KgNone,Black Pepper Seed,
+BlackPepper Seed,items,Item,KgNone,Black Pepper Seed,Schwarzpfeffer-Samen
 BrusselsSprouts Seed,items,Item,KgNone,Brussels Sprouts Seed,
 CherryTomato Seed,items,Item,KgNone,Cherry Tomato Seed,Kirschtomaten-Samen
 FloralHops Seed,items,Item,KgNone,Floral Hops Seed,
-GhostPepper Seed,items,Item,KgNone,Ghost Pepper Seed,
-GreenBean Seed,items,Item,KgNone,Green Bean Seed,
-HeirloomTomato Seed,items,Item,KgNone,Heirloom Tomato Seed,
+GhostPepper Seed,items,Item,KgNone,Ghost Pepper Seed,Geisterpfeffer-Samen
+GreenBean Seed,items,Item,KgNone,Green Bean Seed,grüne Bohnen-Samen
+HeirloomTomato Seed,items,Item,KgNone,Heirloom Tomato Seed,Urtomaten-Samen
 IcebergLettuce Seed,items,Item,KgNone,Iceberg Lettuce Seed,Eisbergsalat-Samen
 KidneyBean Seed,items,Item,KgNone,Kidney Bean Seed,Kidneybohnen-Samen
-PintoBean Seed,items,Item,KgNone,Pinto Bean Seed,
+PintoBean Seed,items,Item,KgNone,Pinto Bean Seed,Wachtelbohnen-Samen
 SugarCane Seed,items,Item,KgNone,Sugar Cane Seed,Zuckerrohr-Samen
 Sunflower Seed,items,Item,KgNone,Sun flower Seed,Sonnenblumen-Samen
 VineyardGrape Seed,items,Item,KgNone,Vineyard Grape Seed,Weintrauben-Samen
