@@ -1,5 +1,17 @@
 War3zuk FarmLife v3 Enhanced Alpha 20.3
 
+Version 1.09
+
+Fixed 2 Recipes GasCookTop (Wok)
+Fixed 50 Recipes For GasCookTop
+Fixed Milk Recipe Area
+Removed BeeHive (Un-used Model)
+Removed BeeHive HoneyComb (Not Needed)
+Removed BeeHive Honey (Not Needed)
+Removed BeeHive Recipe (Not Needed)
+Fixed 25 Recipes For GasOven
+Reset Growth Timers From 2 Testing To (62)
+
 Version 1.08
 
 Removed Old Quests
