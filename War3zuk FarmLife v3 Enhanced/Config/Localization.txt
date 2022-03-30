@@ -1090,12 +1090,12 @@ AnimalBreedingKit,items,Item,KgNone,Animal Breeding Kit,Tierzucht-Set
 TonicDesc,items,,,Refreshing And Stimulating.,Erfrischend und stimulierend.
 
 BellPepper Seed,recipes,Recipe,KgNone,Bell Pepper Seed,Paprika-Samen
-BitterHops Seed,items,Item,KgNone,Bitter Hops Seed,
-BlackBean Seed,items,Item,KgNone,Black Bean Seed,
+BitterHops Seed,items,Item,KgNone,Bitter Hops Seed,Bitterhopfen-Samen
+BlackBean Seed,items,Item,KgNone,Black Bean Seed,Schwarzbohnen-Samen
 BlackPepper Seed,items,Item,KgNone,Black Pepper Seed,Schwarzpfeffer-Samen
-BrusselsSprouts Seed,items,Item,KgNone,Brussels Sprouts Seed,
+BrusselsSprouts Seed,items,Item,KgNone,Brussels Sprouts Seed,Rosenkohl-Samen
 CherryTomato Seed,items,Item,KgNone,Cherry Tomato Seed,Kirschtomaten-Samen
-FloralHops Seed,items,Item,KgNone,Floral Hops Seed,
+FloralHops Seed,items,Item,KgNone,Floral Hops Seed,Blumenhopfen-Samen
 GhostPepper Seed,items,Item,KgNone,Ghost Pepper Seed,Geisterpfeffer-Samen
 GreenBean Seed,items,Item,KgNone,Green Bean Seed,grüne Bohnen-Samen
 HeirloomTomato Seed,items,Item,KgNone,Heirloom Tomato Seed,Urtomaten-Samen
