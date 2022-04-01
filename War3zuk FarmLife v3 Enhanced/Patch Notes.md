@@ -1,5 +1,29 @@
 War3zuk FarmLife v3 Enhanced Alpha 20.3
 
+Version 1.10
+
+Edited 2 Recipes Removed Buff Replaced
+Added Ancho Pepper (Progression)
+Adjusted Whole Wheat Recipe
+Adjusted Flour Recipe
+Adjusted Husk Recipe
+Fixed Bagel ToolItem
+Fixed Bread ToolItem
+Added Ancho Pepper Recipe (GhostPepper Scrap)
+Fixed Baby Aninimals Progression
+Fixed Baby Chicken Icon
+Added Leather To Adult Holstein
+Removed cryogenicContainerBee
+Removed cryogenicContainerDuck
+Removed cryogenicContainerGoat
+Removed cryogenicContainerRabbit
+Removed LootContainer ID88
+Fixed Baby Pig Pen Growing Next
+Fixed Duplicate Pizza Recipe
+Fixed 32 Recipes
+Fixed 172 Tags / Items (Thanks Kraezee)
+Removed Halite Recipe (Not Required)
+
 Version 1.09
 
 Fixed Tag Lamb With Charred Tomtatoes

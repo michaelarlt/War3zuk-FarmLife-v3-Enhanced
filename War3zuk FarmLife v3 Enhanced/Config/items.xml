@@ -13034,7 +13034,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -13084,7 +13084,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -13545,7 +13545,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -13677,7 +13677,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven,All,Webber Grill"/>
+			<property name="Group" value="Gas Oven,All,Webber Grill"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -13714,7 +13714,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -13733,7 +13733,7 @@
 				<property name="Sound_start" value="swoosh"/>
 			</property>
 			<effect_group tiered="false">
-				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffBeefcake"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffAllNatural"/>
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="40"/>
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="40"/>
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$waterAmountAdd" operation="subtract" value="5"/>
@@ -13751,7 +13751,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven,All,Webber Grill"/>
+			<property name="Group" value="Gas Oven,All,Webber Grill"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -13862,7 +13862,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -13885,7 +13885,7 @@
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="100"/>
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$waterAmountAdd" operation="add" value="25"/>
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyStats" stat="water" operation="add" value="25"/>
-				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffBeefcake"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffAllNatural"/>
 				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
 			</effect_group>
 		</item>
@@ -13899,7 +13899,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven,All,Webber Grill"/>
+			<property name="Group" value="Gas Oven,All,Webber Grill"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -13936,7 +13936,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -13974,7 +13974,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven,All,Webber Grill"/>
+			<property name="Group" value="Gas Oven,All,Webber Grill"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -14086,7 +14086,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -14123,7 +14123,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -14198,7 +14198,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -14236,7 +14236,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -14311,7 +14311,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -14348,7 +14348,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -14685,7 +14685,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -14712,7 +14712,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -14740,7 +14740,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -14768,7 +14768,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -14796,7 +14796,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -14824,7 +14824,7 @@
 			<property name="Weight" value="1"/>
 			<property name="Stacknumber" value="50000"/>
 			<property name="EconomicValue" value="5"/>
-			<property name="Group" value="Oven"/>
+			<property name="Group" value="Food/Cooking,Gas Oven"/>
 			<property name="CraftingIngredientExp" value="3"/>
 			<property name="CraftingIngredientTime" value="1"/>
 			<property name="DisplayType" value="food"/>
@@ -15033,16 +15033,6 @@
 			<property name="DescriptionKey" value="Desc"/>
 		</item>
 		
-		<item name="cryogenicContainerBee">
-			<property name="HoldType" value="31"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
-			<property name="Material" value="Morganic"/>
-			<property name="Stacknumber" value="5000"/>
-			<property name="EconomicValue" value="5"/>
-			<property name="DescriptionKey" value="FLEcryogenicContainerBee"/>
-		</item>
-		
 		<item name="cryogenicContainerChicken">
 			<property name="HoldType" value="31"/>
 			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
@@ -15061,16 +15051,6 @@
 			<property name="Stacknumber" value="5000"/>
 			<property name="EconomicValue" value="5"/>
 			<property name="DescriptionKey" value="FLEcryogenicContainerCow"/>
-		</item>		
-		
-		<item name="cryogenicContainerDuck">
-			<property name="HoldType" value="31"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
-			<property name="Material" value="Morganic"/>
-			<property name="Stacknumber" value="5000"/>
-			<property name="EconomicValue" value="5"/>
-			<property name="DescriptionKey" value="FLEcryogenicContainerDuck"/>
 		</item>
 		
 		<item name="cryogenicContainerElk">
@@ -15081,16 +15061,6 @@
 			<property name="Stacknumber" value="5000"/>
 			<property name="EconomicValue" value="5"/>
 			<property name="DescriptionKey" value="FLEcryogenicContainerElk"/>
-		</item>
-		
-		<item name="cryogenicContainerGoat">
-			<property name="HoldType" value="31"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
-			<property name="Material" value="Morganic"/>
-			<property name="Stacknumber" value="5000"/>
-			<property name="EconomicValue" value="5"/>
-			<property name="DescriptionKey" value="FLEcryogenicContainerGoat"/>
 		</item>
 		
 		<item name="cryogenicContainerHorse">
@@ -15121,16 +15091,6 @@
 			<property name="Stacknumber" value="5000"/>
 			<property name="EconomicValue" value="5"/>
 			<property name="DescriptionKey" value="FLEcryogenicContainerPig"/>
-		</item>
-		
-		<item name="cryogenicContainerRabbit">
-			<property name="HoldType" value="31"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
-			<property name="Material" value="Morganic"/>
-			<property name="Stacknumber" value="5000"/>
-			<property name="EconomicValue" value="5"/>
-			<property name="DescriptionKey" value="FLEcryogenicContainerRabbit"/>
 		</item>
 		
 		<item name="cryogenicContainerSheep">
